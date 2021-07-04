@@ -1,0 +1,18 @@
+.Home a {
+  color:white;
+}
+
+.about {
+  display:flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.btnArea {
+  display:flex;
+  justify-content:space-around;
+  margin-top: 30px;
+  margin-left:20%;
+  margin-right:20%;
+}
+
