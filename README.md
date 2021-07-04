@@ -2,6 +2,8 @@
 
 Submitted by: **William Huang**
 
+LINK TO LifeTracker-Backend : https://github.com/WilliamHuangg/lifetracker-api
+
 Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 
 ## Application Features
